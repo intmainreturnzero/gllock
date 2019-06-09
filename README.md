@@ -1,44 +1,10 @@
+## This repository is a fork of https://github.com/kuravih/gllock without the heavy gif images
+
 # gllock
 OpenGL extension to the simple screen locker [slock](http://github.com/anekos/slock)
 
 Inspired by this [reddit post](https://www.reddit.com/r/unixporn/comments/3358vu/i3lock_unixpornworthy_lock_screen/) this lock screen was implemented using the simplest lock program I could find.
 **gllock** will obscure the screen using an opengl texture shader.
-
-## few examples
-
-#### [circles](http://www.shadertoy.com/view/4dsXWs)
-
-<p align="center">
-  <img width="460" height="300" src="images/circle_shader.gif"></img>
-</p>
-
-
-#### [squares](http://www.shadertoy.com/view/MtfXRN)
-
-<p align="center">
-  <img width="460" height="300" src="images/square_shader.gif"></img>
-</p>
-
-
-#### [ascii](http://www.shadertoy.com/view/lssGDj)
-
-<p align="center">
-  <img width="460" height="300" src="images/ascii_shader.gif"></img>
-</p>
-
-
-#### [crt](http://www.shadertoy.com/view/lt3yz7)
-
-<p align="center">
-  <img width="460" height="300" src="images/crt_shader.gif"></img>
-</p>
-
-
-#### [glitch](http://www.shadertoy.com/view/MlVSD3)
-
-<p align="center">
-  <img width="460" height="300" src="images/glitch_shader.gif"></img>
-</p>
 
 
 ## Requirements
